@@ -1,1 +1,3 @@
 node_modules/
+/eth-contracts/.infuraKey.js
+/eth-contracts/secret.js

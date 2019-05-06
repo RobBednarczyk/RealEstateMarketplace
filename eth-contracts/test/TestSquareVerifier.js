@@ -8,8 +8,8 @@ contract("TestSquareVerifier", async (accounts) => {
 
     const user1 = accounts[0];
     var contractInstance;
-    console.log(user1);
-    console.log(proof);
+    // console.log(user1);
+    // console.log(proof);
 
     describe("Testing square verifier: ZK snarks", function () {
         beforeEach(async function() {

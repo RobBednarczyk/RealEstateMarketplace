@@ -9,7 +9,7 @@ import "./Oraclize.sol";
 contract Ownable {
 
     //  1) create a private '_owner' variable of type address with a public getter function
-    address public _owner;
+    address private _owner;
     //  2) create an internal constructor that sets the _owner var to the creater of the contract
     constructor() public {
         _owner = msg.sender;
@@ -23,6 +23,10 @@ contract Ownable {
     //  4) fill out the transferOwnership function
     //  5) create an event that emits anytime ownerShip is transfered (including in the constructor)
     event OwnershipTransfer(address oldOwner, address newOwner);
+
+    function owner() public view returns(address) {
+        return _owner;
+    }
 
     function transferOwnership(address newOwner) public onlyOwner {
         // TODO add functionality to transfer control of the contract to a newOwner.
@@ -162,12 +166,12 @@ contract ERC721 is Pausable, ERC165 {
 
 //    @dev Approves another address to transfer the given token ID
     function approve(address to, uint256 tokenId) public {
-
+        address owner = owner();
         // require the given address to not be the owner of the tokenId
         require(to != ownerOf(tokenId), "The receiver of the token cannot be the current owner");
 
         // require the msg sender to be the owner of the contract or isApprovedForAll() to be true
-        require(msg.sender == _owner || isApprovedForAll(ownerOf(tokenId), msg.sender), "The message sender must be the owner of the token or an approved operator");
+        require(msg.sender == owner || isApprovedForAll(ownerOf(tokenId), msg.sender), "The message sender must be the owner of the token or an approved operator");
         // add 'to' address to token approvals
         _tokenApprovals[tokenId] = to;
         // emit Approval Event
