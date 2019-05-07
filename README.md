@@ -52,7 +52,9 @@ All the details about the transaction hashes can be found in the ./TokenMinting.
 The 10 tokens have been listed on the
 [OpenSea marketplace](https://rinkeby.opensea.io/category/robbonrealestatemarketplace)
 
-Three of them have already been sold to varius users:
+https://rinkeby.opensea.io/category/robbonrealestatemarketplace
+
+Three of them have already been sold to various users:
 
 1st transaction: token sold 0xaa2cfa47da3f857d661a3782c6b855bbc9d50cd4e7a0fb0b7fb75f56f1446cfe
 2nd transaction: token sold 0xeaf5362401e48264db31a146ce1fe299a536a5c747bc8063a0249c54c3012745
