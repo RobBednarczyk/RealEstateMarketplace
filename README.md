@@ -63,9 +63,9 @@ https://rinkeby.opensea.io/category/robbonrealestatemarketplacev2
 
 Three of them have already been sold to various users:
 
-1st transaction: token sold 0xaa2cfa47da3f857d661a3782c6b855bbc9d50cd4e7a0fb0b7fb75f56f1446cfe
-2nd transaction: token sold 0xeaf5362401e48264db31a146ce1fe299a536a5c747bc8063a0249c54c3012745
-3rd transaction: token sold 0x8ac6ac772bb1519f7e723f6c1c6363e36eba568ebf56ca65f7f3d288eed8cfaa
+1st transaction: token sold 0xfc702e923ab8c0987d5600861e06ecfd0acf71cca39b15348560dd316cf46bbe
+2nd transaction: token sold 0xb52c8e27ae7843b250c89c501edb35544d4dcfc8fddcb23e3e13230656818215
+3rd transaction: token sold 0x5ff6185cbf340aab6f32bbbd811cede1db47479aa6786be608b2a6c55a286097
 
 
 # Project Resources
