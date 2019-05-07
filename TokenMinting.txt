@@ -1,0 +1,17 @@
+Transaction: 0x51db6f1f48d6dda083cf0d5bc62af18fe4caad8a4445960be5a2309d032e2375 - MINTED TOKEN 1
+Transaction: 0x13e2a4a6d8aff8af2aa49a0f7621f531121d75c17dca54f95f35e3a18085975c - MINTED TOKEN 2
+Transaction: 0x84e4bb383e63e7f62d0304aed042ee82e7d21f4e1816a9569e76b2612db50e01 - MINTED TOKEN 3
+Transaction: 0x605eb792f597cc55aa39a6c7a9a0f412982459d6fcf8a2c6753aae18639d9ed8 - MINTED TOKEN 4
+Transaction: 0x6d6e09fe7f7b5df28d5f9c680a995ead38b03844863cb51f1f89e7123df0744a - MINTED TOKEN 5
+Transaction: 0xf99a57a2ab06818a2e150291826ac47820741241756b268b99979cabbf7b86b3 - MINTED TOKEN 6
+Transaction: 0xb8a3804939c0f90313b3e123dcecfa990ddf458182f57c0df2cbc4cb17affb07 - MINTED TOKEN 7
+Transaction: 0xb67e54c73ae751b529ee248091dfc549235b1d32f278f7591632f983058c26ad - MINTED TOKEN 8
+Transaction: 0x725f68521902dbc986c467e61daf78fd16ce9b14c9e5d62e332bf3389d2e852f - MINTED TOKEN 9
+Transaction: 0xf9c52943bb9d382788dfa074535956a686eaee14d57bbcb92dbe1c3798c16c6f - MINTED TOKEN 10
+
+
+https://rinkeby.opensea.io/category/robbonrealestatemarketplace
+
+1st transaction: token sold 0xaa2cfa47da3f857d661a3782c6b855bbc9d50cd4e7a0fb0b7fb75f56f1446cfe
+2nd transaction: token sold 0xeaf5362401e48264db31a146ce1fe299a536a5c747bc8063a0249c54c3012745
+3rd transaction: token sold 0x8ac6ac772bb1519f7e723f6c1c6363e36eba568ebf56ca65f7f3d288eed8cfaa 
