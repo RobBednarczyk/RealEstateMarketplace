@@ -2,5 +2,4 @@ node_modules/
 /eth-contracts/.infuraKey.js
 /eth-contracts/secret.js
 /eth-contracts/build/
-mint.js
 mintParams.json
