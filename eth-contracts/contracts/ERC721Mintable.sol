@@ -271,6 +271,7 @@ contract ERC721 is Pausable, ERC165 {
         // update token counts & transfer ownership of the token ID
         _tokenOwner[tokenId] = to;
         _ownedTokensCount[to].increment();
+        _ownedTokensCount[from].decrement();
         // emit correct event
         emit Transfer(from, to, tokenId);
     }

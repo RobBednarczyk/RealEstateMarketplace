@@ -34,11 +34,18 @@ The deployment on the rinkeby testnetwork was done using the address:
 
 The deployed contracts addresses are as follows:
 
-* MyOwnERC721Token: 0x443D35BDBebC1216595eBc00dACA53247140da80
-* Verifier: 0x5C57A0066fD3f6c59fEc8a39995875f1125A6481
-* **SolnSquareVerifier: 0x41c4c4f4907b2B305E92C07A69c902528A9E1007**
+* MyOwnERC721Token: 0xb03D170570899b2eB48759D626e428B5b46a0a0d
+* Verifier: 0x8Dea926D7F97A9cAD2145a8e1Ff52001f217111C
+* **SolnSquareVerifier: 0xFf3433A3A6eC83B36faB24216AA422Ba5bA9fa73**
 
 The details of the deployment can be found in the ./eth-contracts/RinkebyDeploy.txt file
+
+# ABI files
+
+The ABI files of the 3 contracts can be found in the folder ./eth-contracts/
+* MyOwnERC721Token_ABI
+* SolnSquareVerifier_ABI
+* Verifier_ABI
 
 # Token minting
 
@@ -50,9 +57,9 @@ All the details about the transaction hashes can be found in the ./TokenMinting.
 # OpenSea marketplace
 
 The 10 tokens have been listed on the
-[OpenSea marketplace](https://rinkeby.opensea.io/category/robbonrealestatemarketplace)
+[OpenSea marketplace](https://rinkeby.opensea.io/category/robbonrealestatemarketplacev2)
 
-https://rinkeby.opensea.io/category/robbonrealestatemarketplace
+https://rinkeby.opensea.io/category/robbonrealestatemarketplacev2
 
 Three of them have already been sold to various users:
 
